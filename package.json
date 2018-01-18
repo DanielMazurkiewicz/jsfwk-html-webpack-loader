@@ -1,0 +1,36 @@
+{
+  "name": "jsfwk-html-webpack-loader",
+  "version": "0.9.9",
+  "description": "Webpack loader for converting HTML files into javascript JS FWK framework files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "jsfwk-html-to-js-transpiller": ">=0.9.9"
+  },
+  "devDependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielMazurkiewicz/jsfwk-html-webpack-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "html",
+    "jsfwk",
+    "widget",
+    "module",
+    "transpiller",
+    "js",
+    "fwk",
+    "framework",
+    "loader"
+  ],
+  "author": "Daniel Mazurkiewicz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DanielMazurkiewicz/jsfwk-html-webpack-loader/issues"
+  },
+  "homepage": "https://github.com/DanielMazurkiewicz/jsfwk-html-webpack-loader#readme"
+}
