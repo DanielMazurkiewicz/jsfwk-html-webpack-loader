@@ -1,6 +1,6 @@
 {
   "name": "jsfwk-html-webpack-loader",
-  "version": "0.9.10",
+  "version": "0.9.11",
   "description": "Webpack loader for converting HTML files into javascript JS FWK framework files",
   "main": "index.js",
   "scripts": {
