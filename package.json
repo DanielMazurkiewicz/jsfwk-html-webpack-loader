@@ -1,13 +1,13 @@
 {
   "name": "jsfwk-html-webpack-loader",
-  "version": "0.9.12",
+  "version": "0.9.13",
   "description": "Webpack loader for converting HTML files into javascript JS FWK framework files",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "jsfwk-html-to-js-transpiller": ">=0.9.15"
+    "jsfwk-html-to-js-transpiller": ">=0.9.16"
   },
   "devDependencies": {
   },
